@@ -1,0 +1,8 @@
+{
+  "name": "Maafin Ardan ya Athifah",
+  "description": "Website romantis bertema Frozen untuk permintaan maaf Ardan kepada Athifah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
